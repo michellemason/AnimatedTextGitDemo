@@ -1,9 +1,9 @@
 body {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     height: 100vh;
-    background-color: white;
+    background-color: rgb(128, 83, 199);
 }
 
 h1 {
@@ -12,5 +12,5 @@ h1 {
 
 
 .letter {
-    transition: color 1000ms;
+    transition: color 1500ms;
 }
