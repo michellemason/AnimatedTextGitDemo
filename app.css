@@ -3,11 +3,11 @@ body {
     justify-content: left;
     align-items: center;
     height: 100vh;
-    background-color: rgb(128, 83, 199);
+    background-color: olive;
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 10rem;
 }
 
 
